@@ -1,0 +1,2666 @@
+x :  50 y :  50
+Je suis dans le stop de la condition
+Je suis dans le stop de la condition
+Je suis laa  False
+indice detection  1
+Cest la que j'ai fais le premier set vitesse de tourner
+***********Je suis dans tourner **************************
+Angle actuel en degre(step de la strategie Tourner) 0.0003933906555175781 Delta time dans tourner  2.6226043701171875e-06
+Je suis dans le stop de la condition
+Langle du robot en radian (apres apres set dans update pos) est de :    0.1568560270164639 Delta time update  0.059914588928222656
+Je suis dans le stop de la condition
+Je suis dans le stop de la condition
+Je suis laa  False
+indice detection  2
+***********Je suis dans tourner **************************
+Angle actuel en degre(step de la strategie Tourner) 8.97592306137085 Delta time dans tourner  0.05983686447143555
+Je suis dans le stop de la condition
+Langle du robot en radian (apres apres set dans update pos) est de :    0.18323630208938005 Delta time update  0.010076522827148438
+Je suis dans le stop de la condition
+Je suis dans le stop de la condition
+Je suis laa  False
+indice detection  3
+***********Je suis dans tourner **************************
+Angle actuel en degre(step de la strategie Tourner) 10.491514205932617 Delta time dans tourner  0.010103940963745117
+Je suis dans le stop de la condition
+Langle du robot en radian (apres apres set dans update pos) est de :    0.20959285838383768 Delta time update  0.010067462921142578
+Je suis dans le stop de la condition
+Je suis dans le stop de la condition
+Je suis laa  False
+indice detection  4
+***********Je suis dans tourner **************************
+Angle actuel en degre(step de la strategie Tourner) 12.001919746398926 Delta time dans tourner  0.01006937026977539
+Je suis dans le stop de la condition
+Langle du robot en radian (apres apres set dans update pos) est de :    0.23600683908930015 Delta time update  0.010089397430419922
+Je suis dans le stop de la condition
+Je suis dans le stop de la condition
+Je suis laa  False
+indice detection  5
+***********Je suis dans tourner **************************
+Angle actuel en degre(step de la strategie Tourner) 13.513076305389404 Delta time dans tourner  0.010074377059936523
+Je suis dans le stop de la condition
+Je suis dans le stop de la condition
+Je suis dans le stop de la condition
+Je suis laa  False
+indice detection  6
+Le prochain obstacle est a :  -1
+***********Je suis dans tourner **************************
+Angle actuel en degre(step de la strategie Tourner) 15.047407150268555 Delta time dans tourner  0.010228872299194336
+Je suis dans le stop de la condition
+Langle du robot en radian (apres apres set dans update pos) est de :    0.2628995646125964 Delta time update  0.01027226448059082
+Langle du robot en radian (apres apres set dans update pos) est de :    0.28928108804227354 Delta time update  0.01007699966430664
+Je suis dans le stop de la condition
+Je suis dans le stop de la condition
+Je suis laa  False
+indice detection  1
+***********Je suis dans tourner **************************
+Angle actuel en degre(step de la strategie Tourner) 16.566359996795654 Delta time dans tourner  0.010126352310180664
+Je suis dans le stop de la condition
+Langle du robot en radian (apres apres set dans update pos) est de :    0.31682732832994 Delta time update  0.010521888732910156
+Je suis dans le stop de la condition
+Je suis dans le stop de la condition
+Je suis laa  False
+indice detection  2
+***********Je suis dans tourner **************************
+Angle actuel en degre(step de la strategie Tourner) 18.16009283065796 Delta time dans tourner  0.010624885559082031
+Je suis dans le stop de la condition
+Langle du robot en radian (apres apres set dans update pos) est de :    0.34324068485702197 Delta time update  0.01008915901184082
+Je suis dans le stop de la condition
+Je suis dans le stop de la condition
+Je suis laa  False
+indice detection  3
+***********Je suis dans tourner **************************
+Angle actuel en degre(step de la strategie Tourner) 19.676899909973145 Delta time dans tourner  0.01011204719543457
+Je suis dans le stop de la condition
+Langle du robot en radian (apres apres set dans update pos) est de :    0.3696609073462893 Delta time update  0.010091781616210938
+Je suis dans le stop de la condition
+Je suis dans le stop de la condition
+Je suis laa  False
+indice detection  4
+***********Je suis dans tourner **************************
+Angle actuel en degre(step de la strategie Tourner) 21.211910247802734 Delta time dans tourner  0.010233402252197266
+Je suis dans le stop de la condition
+Langle du robot en radian (apres apres set dans update pos) est de :    0.39612544650057124 Delta time update  0.010108709335327148
+Je suis dans le stop de la condition
+Je suis dans le stop de la condition
+Je suis laa  False
+indice detection  5
+***********Je suis dans tourner **************************
+Angle actuel en degre(step de la strategie Tourner) 22.728681564331055 Delta time dans tourner  0.010111808776855469
+Je suis dans le stop de la condition
+Langle du robot en radian (apres apres set dans update pos) est de :    0.4225587767358288 Delta time update  0.01009678840637207
+Je suis dans le stop de la condition
+Je suis dans le stop de la condition
+Je suis laa  False
+indice detection  6
+Le prochain obstacle est a :  -1
+***********Je suis dans tourner **************************
+Angle actuel en degre(step de la strategie Tourner) 24.327242374420166 Delta time dans tourner  0.010657072067260742
+Je suis dans le stop de la condition
+Langle du robot en radian (apres apres set dans update pos) est de :    0.4491000898309107 Delta time update  0.01013803482055664
+Je suis dans le stop de la condition
+Je suis dans le stop de la condition
+Je suis laa  False
+indice detection  1
+***********Je suis dans tourner **************************
+Angle actuel en degre(step de la strategie Tourner) 25.874733924865723 Delta time dans tourner  0.010316610336303711
+Je suis dans le stop de la condition
+Langle du robot en radian (apres apres set dans update pos) est de :    0.47544978016318296 Delta time update  0.010064840316772461
+Je suis dans le stop de la condition
+Je suis dans le stop de la condition
+Je suis laa  False
+indice detection  2
+***********Je suis dans tourner **************************
+Angle actuel en degre(step de la strategie Tourner) 27.401411533355713 Delta time dans tourner  0.010177850723266602
+Je suis dans le stop de la condition
+Langle du robot en radian (apres apres set dans update pos) est de :    0.5019655019446648 Delta time update  0.010128259658813477
+Je suis dans le stop de la condition
+Je suis dans le stop de la condition
+Je suis laa  False
+indice detection  3
+***********Je suis dans tourner **************************
+Angle actuel en degre(step de la strategie Tourner) 28.91707420349121 Delta time dans tourner  0.01010441780090332
+Je suis dans le stop de la condition
+Langle du robot en radian (apres apres set dans update pos) est de :    0.5284069464988688 Delta time update  0.01009988784790039
+Je suis dans le stop de la condition
+Je suis dans le stop de la condition
+Je suis laa  False
+indice detection  4
+***********Je suis dans tourner **************************
+Angle actuel en degre(step de la strategie Tourner) 30.43760061264038 Delta time dans tourner  0.010136842727661133
+Je suis dans le stop de la condition
+Langle du robot en radian (apres apres set dans update pos) est de :    0.5550200401077067 Delta time update  0.01016545295715332
+Je suis dans le stop de la condition
+Je suis dans le stop de la condition
+Je suis laa  False
+indice detection  5
+***********Je suis dans tourner **************************
+Angle actuel en degre(step de la strategie Tourner) 31.958448886871338 Delta time dans tourner  0.010138988494873047
+Je suis dans le stop de la condition
+Langle du robot en radian (apres apres set dans update pos) est de :    0.581440262596974 Delta time update  0.010091781616210938
+Je suis dans le stop de la condition
+Je suis dans le stop de la condition
+Je suis laa  False
+indice detection  6
+Le prochain obstacle est a :  -1
+***********Je suis dans tourner **************************
+Angle actuel en degre(step de la strategie Tourner) 33.55515003204346 Delta time dans tourner  0.010644674301147461
+Je suis dans le stop de la condition
+Langle du robot en radian (apres apres set dans update pos) est de :    0.6080121604326998 Delta time update  0.010149717330932617
+Je suis dans le stop de la condition
+Je suis dans le stop de la condition
+Je suis laa  False
+indice detection  1
+***********Je suis dans tourner **************************
+Angle actuel en degre(step de la strategie Tourner) 35.07646322250366 Delta time dans tourner  0.010142087936401367
+Je suis dans le stop de la condition
+Langle du robot en radian (apres apres set dans update pos) est de :    0.6344442423111963 Delta time update  0.010096311569213867
+Je suis dans le stop de la condition
+Je suis dans le stop de la condition
+Je suis laa  False
+indice detection  2
+***********Je suis dans tourner **************************
+Angle actuel en degre(step de la strategie Tourner) 36.599135398864746 Delta time dans tourner  0.010151147842407227
+Je suis dans le stop de la condition
+Langle du robot en radian (apres apres set dans update pos) est de :    0.6610180126820635 Delta time update  0.010150432586669922
+Je suis dans le stop de la condition
+Je suis dans le stop de la condition
+Je suis laa  False
+indice detection  3
+***********Je suis dans tourner **************************
+Angle actuel en degre(step de la strategie Tourner) 38.12448978424072 Delta time dans tourner  0.010169029235839844
+Je suis dans le stop de la condition
+Langle du robot en radian (apres apres set dans update pos) est de :    0.6874457253118967 Delta time update  0.010094642639160156
+Je suis dans le stop de la condition
+Je suis dans le stop de la condition
+Je suis laa  False
+indice detection  4
+***********Je suis dans tourner **************************
+Angle actuel en degre(step de la strategie Tourner) 39.64594602584839 Delta time dans tourner  0.010143041610717773
+Je suis dans le stop de la condition
+Langle du robot en radian (apres apres set dans update pos) est de :    0.7138746862984909 Delta time update  0.01009511947631836
+Je suis dans le stop de la condition
+Je suis dans le stop de la condition
+Je suis laa  False
+indice detection  5
+***********Je suis dans tourner **************************
+Angle actuel en degre(step de la strategie Tourner) 41.168010234832764 Delta time dans tourner  0.0101470947265625
+Je suis dans le stop de la condition
+Langle du robot en radian (apres apres set dans update pos) est de :    0.7403192517445972 Delta time update  0.010101079940795898
+Je suis dans le stop de la condition
+Je suis dans le stop de la condition
+Je suis laa  False
+indice detection  6
+Le prochain obstacle est a :  -1
+***********Je suis dans tourner **************************
+Angle actuel en degre(step de la strategie Tourner) 42.766427993774414 Delta time dans tourner  0.010656118392944336
+Je suis dans le stop de la condition
+Langle du robot en radian (apres apres set dans update pos) est de :    0.7669610575589376 Delta time update  0.010176420211791992
+Je suis dans le stop de la condition
+Je suis dans le stop de la condition
+Je suis laa  False
+indice detection  1
+***********Je suis dans tourner **************************
+Angle actuel en degre(step de la strategie Tourner) 44.2882776260376 Delta time dans tourner  0.01014566421508789
+Je suis dans le stop de la condition
+Langle du robot en radian (apres apres set dans update pos) est de :    0.7934424495294927 Delta time update  0.01011514663696289
+Je suis dans le stop de la condition
+Je suis dans le stop de la condition
+Je suis laa  False
+indice detection  2
+***********Je suis dans tourner **************************
+Angle actuel en degre(step de la strategie Tourner) 45.81191539764404 Delta time dans tourner  0.010157585144042969
+Je suis dans le stop de la condition
+Langle du robot en radian (apres apres set dans update pos) est de :    0.8198539335214332 Delta time update  0.010088443756103516
+Je suis dans le stop de la condition
+Je suis dans le stop de la condition
+Je suis laa  False
+indice detection  3
+***********Je suis dans tourner **************************
+Angle actuel en degre(step de la strategie Tourner) 47.33405113220215 Delta time dans tourner  0.010147571563720703
+Je suis dans le stop de la condition
+Langle du robot en radian (apres apres set dans update pos) est de :    0.8464071060057443 Delta time update  0.01014256477355957
+Je suis dans le stop de la condition
+Je suis dans le stop de la condition
+Je suis laa  False
+indice detection  4
+***********Je suis dans tourner **************************
+Angle actuel en degre(step de la strategie Tourner) 48.8551139831543 Delta time dans tourner  0.010140419006347656
+Je suis dans le stop de la condition
+Langle du robot en radian (apres apres set dans update pos) est de :    0.8728510472734702 Delta time update  0.010100841522216797
+Je suis dans le stop de la condition
+Je suis dans le stop de la condition
+Je suis laa  False
+indice detection  5
+***********Je suis dans tourner **************************
+Angle actuel en degre(step de la strategie Tourner) 50.37732124328613 Delta time dans tourner  0.010148048400878906
+Je suis dans le stop de la condition
+Langle du robot en radian (apres apres set dans update pos) est de :    0.8992818807952058 Delta time update  0.010095834732055664
+Je suis dans le stop de la condition
+Je suis dans le stop de la condition
+Je suis laa  False
+indice detection  6
+Le prochain obstacle est a :  -1
+***********Je suis dans tourner **************************
+Angle actuel en degre(step de la strategie Tourner) 51.974380016326904 Delta time dans tourner  0.010647058486938477
+Je suis dans le stop de la condition
+Langle du robot en radian (apres apres set dans update pos) est de :    0.9258612687714973 Delta time update  0.010152578353881836
+Je suis dans le stop de la condition
+Je suis dans le stop de la condition
+Je suis laa  False
+indice detection  1
+***********Je suis dans tourner **************************
+Angle actuel en degre(step de la strategie Tourner) 53.49891185760498 Delta time dans tourner  0.010163545608520508
+Je suis dans le stop de la condition
+Langle du robot en radian (apres apres set dans update pos) est de :    0.9524144412558084 Delta time update  0.01014256477355957
+Je suis dans le stop de la condition
+Je suis dans le stop de la condition
+Je suis laa  False
+indice detection  2
+***********Je suis dans tourner **************************
+Angle actuel en degre(step de la strategie Tourner) 55.02229928970337 Delta time dans tourner  0.010155916213989258
+Je suis dans le stop de la condition
+Langle du robot en radian (apres apres set dans update pos) est de :    0.9788446505991636 Delta time update  0.010095596313476562
+Je suis dans le stop de la condition
+Je suis dans le stop de la condition
+Je suis laa  False
+indice detection  3
+***********Je suis dans tourner **************************
+Angle actuel en degre(step de la strategie Tourner) 56.53975009918213 Delta time dans tourner  0.010116338729858398
+Je suis dans le stop de la condition
+Langle du robot en radian (apres apres set dans update pos) est de :    1.0053210491426747 Delta time update  0.010113239288330078
+Je suis dans le stop de la condition
+Je suis dans le stop de la condition
+Je suis laa  False
+indice detection  4
+***********Je suis dans tourner **************************
+Angle actuel en degre(step de la strategie Tourner) 58.062779903411865 Delta time dans tourner  0.010153532028198242
+Je suis dans le stop de la condition
+Langle du robot en radian (apres apres set dans update pos) est de :    1.0319197866487615 Delta time update  0.010159969329833984
+Je suis dans le stop de la condition
+Je suis dans le stop de la condition
+Je suis laa  False
+indice detection  5
+***********Je suis dans tourner **************************
+Angle actuel en degre(step de la strategie Tourner) 59.58584547042847 Delta time dans tourner  0.010153770446777344
+Je suis dans le stop de la condition
+Langle du robot en radian (apres apres set dans update pos) est de :    1.0584361326086238 Delta time update  0.010128498077392578
+Je suis dans le stop de la condition
+Je suis dans le stop de la condition
+Je suis laa  False
+indice detection  6
+Le prochain obstacle est a :  -1
+***********Je suis dans tourner **************************
+Angle actuel en degre(step de la strategie Tourner) 61.248743534088135 Delta time dans tourner  0.011085987091064453
+Je suis dans le stop de la condition
+Langle du robot en radian (apres apres set dans update pos) est de :    1.0849487334982033 Delta time update  0.010127067565917969
+Je suis dans le stop de la condition
+Je suis dans le stop de la condition
+Je suis laa  False
+indice detection  1
+***********Je suis dans tourner **************************
+Angle actuel en degre(step de la strategie Tourner) 62.774813175201416 Delta time dans tourner  0.010173797607421875
+Je suis dans le stop de la condition
+Langle du robot en radian (apres apres set dans update pos) est de :    1.1115674447124657 Delta time update  0.010167598724365234
+Je suis dans le stop de la condition
+Je suis dans le stop de la condition
+Je suis laa  False
+indice detection  2
+***********Je suis dans tourner **************************
+Angle actuel en degre(step de la strategie Tourner) 64.30056095123291 Delta time dans tourner  0.010171651840209961
+Je suis dans le stop de la condition
+Langle du robot en radian (apres apres set dans update pos) est de :    1.1380869115642305 Delta time update  0.010129690170288086
+Je suis dans le stop de la condition
+Je suis dans le stop de la condition
+Je suis laa  False
+indice detection  3
+***********Je suis dans tourner **************************
+Angle actuel en degre(step de la strategie Tourner) 65.82609415054321 Delta time dans tourner  0.010170221328735352
+Je suis dans le stop de la condition
+Langle du robot en radian (apres apres set dans update pos) est de :    1.1645926464916245 Delta time update  0.010124444961547852
+Je suis dans le stop de la condition
+Je suis dans le stop de la condition
+Je suis laa  False
+indice detection  4
+***********Je suis dans tourner **************************
+Angle actuel en degre(step de la strategie Tourner) 67.34801530838013 Delta time dans tourner  0.010146141052246094
+Je suis dans le stop de la condition
+Langle du robot en radian (apres apres set dans update pos) est de :    1.1910072513754675 Delta time update  0.010089635848999023
+Je suis dans le stop de la condition
+Je suis dans le stop de la condition
+Je suis laa  False
+indice detection  5
+***********Je suis dans tourner **************************
+Angle actuel en degre(step de la strategie Tourner) 68.87412071228027 Delta time dans tourner  0.010174036026000977
+Je suis dans le stop de la condition
+Langle du robot en radian (apres apres set dans update pos) est de :    1.2174368365404422 Delta time update  0.010095357894897461
+Je suis dans le stop de la condition
+Je suis dans le stop de la condition
+Je suis laa  False
+indice detection  6
+Le prochain obstacle est a :  -1
+***********Je suis dans tourner **************************
+Angle actuel en degre(step de la strategie Tourner) 70.47117948532104 Delta time dans tourner  0.010647058486938477
+Je suis dans le stop de la condition
+Langle du robot en radian (apres apres set dans update pos) est de :    1.2438458238188608 Delta time update  0.01008749008178711
+Je suis dans le stop de la condition
+Je suis dans le stop de la condition
+Je suis laa  False
+indice detection  1
+***********Je suis dans tourner **************************
+Angle actuel en degre(step de la strategie Tourner) 71.9970703125 Delta time dans tourner  0.010172605514526367
+Je suis dans le stop de la condition
+Langle du robot en radian (apres apres set dans update pos) est de :    1.2704738977088303 Delta time update  0.010171175003051758
+Je suis dans le stop de la condition
+Je suis dans le stop de la condition
+Je suis laa  False
+indice detection  2
+***********Je suis dans tourner **************************
+Angle actuel en degre(step de la strategie Tourner) 73.51952791213989 Delta time dans tourner  0.010149717330932617
+Je suis dans le stop de la condition
+Langle du robot en radian (apres apres set dans update pos) est de :    1.296904731230566 Delta time update  0.010095834732055664
+Je suis dans le stop de la condition
+Je suis dans le stop de la condition
+Je suis laa  False
+indice detection  3
+***********Je suis dans tourner **************************
+Angle actuel en degre(step de la strategie Tourner) 75.04502534866333 Delta time dans tourner  0.01016998291015625
+Je suis dans le stop de la condition
+Langle du robot en radian (apres apres set dans update pos) est de :    1.3233137185089845 Delta time update  0.01008749008178711
+Je suis dans le stop de la condition
+Je suis dans le stop de la condition
+Je suis laa  False
+indice detection  4
+***********Je suis dans tourner **************************
+Angle actuel en degre(step de la strategie Tourner) 76.5680193901062 Delta time dans tourner  0.01015329360961914
+Je suis dans le stop de la condition
+Langle du robot en radian (apres apres set dans update pos) est de :    1.3497389344252957 Delta time update  0.01009368896484375
+Je suis dans le stop de la condition
+Je suis dans le stop de la condition
+Je suis laa  False
+indice detection  5
+***********Je suis dans tourner **************************
+Angle actuel en degre(step de la strategie Tourner) 78.09315919876099 Delta time dans tourner  0.010167598724365234
+Je suis dans le stop de la condition
+Langle du robot en radian (apres apres set dans update pos) est de :    1.3761510425956167 Delta time update  0.010088682174682617
+Je suis dans le stop de la condition
+Je suis dans le stop de la condition
+Je suis laa  False
+indice detection  6
+Le prochain obstacle est a :  -1
+***********Je suis dans tourner **************************
+Angle actuel en degre(step de la strategie Tourner) 79.68564033508301 Delta time dans tourner  0.010616540908813477
+Je suis dans le stop de la condition
+Langle du robot en radian (apres apres set dans update pos) est de :    1.4025718892632646 Delta time update  0.010092020034790039
+Je suis dans le stop de la condition
+Je suis dans le stop de la condition
+Je suis laa  False
+indice detection  1
+***********Je suis dans tourner **************************
+Angle actuel en degre(step de la strategie Tourner) 81.20627403259277 Delta time dans tourner  0.010137557983398438
+Je suis dans le stop de la condition
+Langle du robot en radian (apres apres set dans update pos) est de :    1.4290819934393222 Delta time update  0.010126113891601562
+Je suis dans le stop de la condition
+Je suis dans le stop de la condition
+Je suis laa  False
+indice detection  2
+***********Je suis dans tourner **************************
+Angle actuel en degre(step de la strategie Tourner) 82.73030519485474 Delta time dans tourner  0.010160207748413086
+Je suis dans le stop de la condition
+Langle du robot en radian (apres apres set dans update pos) est de :    1.4556201856425017 Delta time update  0.010136842727661133
+Je suis dans le stop de la condition
+Je suis dans le stop de la condition
+Je suis laa  False
+indice detection  3
+***********Je suis dans tourner **************************
+Angle actuel en degre(step de la strategie Tourner) 84.25687551498413 Delta time dans tourner  0.010177135467529297
+Je suis dans le stop de la condition
+Langle du robot en radian (apres apres set dans update pos) est de :    1.4821633712727251 Delta time update  0.010138750076293945
+Je suis dans le stop de la condition
+Je suis dans le stop de la condition
+Je suis laa  False
+indice detection  4
+***********Je suis dans tourner **************************
+Angle actuel en degre(step de la strategie Tourner) 85.7840895652771 Delta time dans tourner  0.010181427001953125
+Je suis dans le stop de la condition
+Langle du robot en radian (apres apres set dans update pos) est de :    1.5086897040866754 Delta time update  0.010132312774658203
+Je suis dans le stop de la condition
+Je suis dans le stop de la condition
+Je suis laa  False
+indice detection  5
+***********Je suis dans tourner **************************
+Angle actuel en degre(step de la strategie Tourner) 87.30887174606323 Delta time dans tourner  0.010165214538574219
+Je suis dans le stop de la condition
+Langle du robot en radian (apres apres set dans update pos) est de :    1.5351941906573086 Delta time update  0.010123968124389648
+Je suis dans le stop de la condition
+Je suis dans le stop de la condition
+Je suis laa  False
+indice detection  6
+Le prochain obstacle est a :  -1
+***********Je suis dans tourner **************************
+Angle actuel en degre(step de la strategie Tourner) 88.91429901123047 Delta time dans tourner  0.010702848434448242
+Je suis dans le stop de la condition
+Langle du robot en radian (apres apres set dans update pos) est de :    1.5616075471843904 Delta time update  0.01008915901184082
+Je suis dans le stop de la condition
+Je suis dans le stop de la condition
+Je suis laa  False
+indice detection  1
+***********Je suis dans tourner **************************
+Angle actuel en degre(step de la strategie Tourner) 90.43872356414795 Delta time dans tourner  0.010162830352783203
+****************Fin de la strategie Tourner*************************
+Cest la que j'ai fais le second set vitesse de tourner
+Je suis dans le stop de la condition
+J'ai stop le  thread de control ici
+x :  50.0 y :  50.0
+Je suis dans le stop de la condition
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+x :  50.0 y :  50.0
+J'ai stop le  thread de control ici

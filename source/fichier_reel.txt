@@ -1,0 +1,11 @@
+set_motor_dps
+set_motor_dps
+Cest la que j'ai fais le premier set vitesse de tourner
+set_motor_dps
+set_motor_dps
+Cest la que j'ai fais le premier set vitesse de tourner
+set_motor_dps
+set_motor_dps
+Je suis laa  False
+***********Je suis dans tourner **************************
+ERROR
